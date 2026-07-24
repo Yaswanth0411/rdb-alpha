@@ -42,3 +42,5 @@ echo hello PostgreSQL
 psql --username=freecodecamp --dbname=postgres
 echo hello PostgreSQL
 psql --username=freecodecamp --dbname=postgres
+echo hello PostgreSQL
+psql --username=freecodecamp --dbname=postgres
